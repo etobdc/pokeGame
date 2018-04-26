@@ -9,7 +9,12 @@ Besides showing the power of the web! And prove that with the basics of some of 
 ## Install
 This projetct uses [BatAngularJs](https://github.com/mateusKoppe/generator-batangularjs) (for more information about the commands read the complete and official documentation of BatAngularJs :D)
 
-Clone this project, enter in the created path/WebApp and run:
+Clone this project with the command:
+```
+$ git clone --recursive https://github.com/etobdc/pokeGame.git
+```
+
+Enter in the created path/WebApp and run:
 ```
 $ npm i
 ```
