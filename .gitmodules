@@ -1,0 +1,3 @@
+[submodule "WebApp"]
+	path = WebApp
+	url = https://github.com/etobdc/pokeGame-WebApp
